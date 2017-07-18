@@ -1,0 +1,21 @@
+{
+  "name": "spaceAge",
+  "version": "1.0.0",
+  "description": "Space Exploration MMORPG",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "S1nus",
+  "repository": "https://github.com/electron/electron-quick-start",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
